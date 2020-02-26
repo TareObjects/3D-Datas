@@ -9,7 +9,7 @@ my original 3d works by fusion360.
 
 Twitterで見かけた自作「ピン揃ったー」を真似してみました。簡単なものなのに、いい感じのバネにするのに5回試作してやっと出来上がりました。
 
-![image](pin-sorottaIMG_1457.jpg)
+![image](pin-sorotta/IMG_1457.jpg)
 
 ## Parts-Case
 
