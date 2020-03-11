@@ -4,6 +4,13 @@
 my original 3d works by fusion360.
 
 
+## SLA 3Dプリンタしずく落とし
+
+出力後にはビルドプレートにレジンがたくさん残っていてもったいない。手で持っていると疲れるし落とす可能性があるので、治具を作ってみました。こんなのでもver 6、立体が斜めに組み合わさっているやつの設計むずかしいっす。STLの他にFusion360データも置いておくので、見た目はお好きなようにいじってください。
+
+This is a jig that waits for resin to drip from the building-plate on your behalf.
+
+![image](dripstand/IMG_1527.jpg)
 
 ## ATmega328PのPin揃えるやつ
 
