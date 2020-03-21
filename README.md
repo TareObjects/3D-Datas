@@ -8,7 +8,7 @@ my original 3d works by fusion360.
 
 ボタン電池CR1225を45本直列にするための電池ボックスです。ニキシー管点灯させました。
 
-![image](dripstand/IMG_1593.jpg)
+![image](Case-lots-of-CR1225/IMG_1593.jpg)
 
 
 ## SLA 3Dプリンタしずく落とし
