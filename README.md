@@ -6,8 +6,9 @@ my original 3d works by fusion360.
 
 ## CR1225直列ケース
 
-ボタン電池CR1225を45本直列にするための電池ボックスです。ニキシー管点灯させました
-動画：https://twitter.com/i/timeline
+ボタン電池CR1225を45本直列にするための電池ボックスです。ニキシー管点灯させました。
+
+動画：https://twitter.com/TareObjects/status/1241164378549800961
 
 ![image](Case-lots-of-CR1225/IMG_1593.jpg)
 
