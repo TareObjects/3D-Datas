@@ -6,6 +6,14 @@ my original 3d works by fusion360.
 翻訳はDeepl.com使ってます。オレより英語上手いんだもん。
 
 
+## レジン量の目盛り（resin gage for orange30）
+
+バットの中にどのぐらいレジンが残っているかを表示する目盛りです。レジンが毛管現象で裏側に垂れないようスリットを追加しました。
+
+This scale indicates how much regin is left in the bat. A slit was added to prevent the regin from sagging on the back side by capillary phenomenon.
+
+![image](tank-gage/IMG_1644.jpg)
+
 ## AppleWatch充電器の台（apple_watch_charger_stand）
 
 AppleWatchの充電器、ケーブルに引っ張られてあっちにフラフラ、AppleWatchに吸い付いてこっちにフラフラ、するのを防ぎます。
