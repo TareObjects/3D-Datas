@@ -5,6 +5,11 @@ my original 3d works by fusion360.
 
 翻訳はDeepl.com使ってます。オレより英語上手いんだもん。
 
+## 6条ネジ
+
+SLAだと表面がしっとりしているのでうまく回らないですがFDMだとストーンと落ちます。
+
+![image](6-thread-screw/6thread-screw.png)
 
 ## ヘッドルーペレンズホルダ＆フレーム
 
