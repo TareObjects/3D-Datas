@@ -5,6 +5,12 @@ my original 3d works by fusion360.
 
 翻訳はDeepl.com使ってます。オレより英語上手いんだもん。
 
+## スタンプ
+
+「2回接種済」のスタンプです ^ ^
+
+![image](stamp-vaccinated_twice/stamp.png)
+
 ## 6条ネジ
 
 SLAだと表面がしっとりしているのでうまく回らないですがFDMだとストーンと落ちます。
