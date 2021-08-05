@@ -5,7 +5,7 @@ my original 3d works by fusion360.
 
 翻訳はDeepl.com使ってます。オレより英語上手いんだもん。
 
-## スタンプ
+## スタンプ(stamp-vaccinated_twice)
 
 「2回接種済」のスタンプです ^ ^
 
